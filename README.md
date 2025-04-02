@@ -6,5 +6,3 @@ This repository contains the implementation of the LatentSync lip-syncing model.
 
 ### 📹 Video (Demo)
 Video link: https://drive.google.com/file/d/1wHxeme-w0obTj4vU8kguMQ_kw6vyyjQB/view?usp=sharing
-
-✅ Developed by Aditya Rokamwar
